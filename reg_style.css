@@ -1,0 +1,21 @@
+h3{
+	font-family: Calibri;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: bold;
+	color: SlateBlue;
+	text-align: center;
+	text-decoration: underline;
+}
+
+table {
+	font-family: Calibri;
+	color: SlateBlue;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	background-color: lightblue;
+	border-collapse: collapse;
+	border: 2px solid SlateBlue;
+
+}
